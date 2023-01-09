@@ -1,0 +1,8 @@
+package reusing.classes.choosing.compositionvs.inheritance;
+
+ class Engine {
+     public void start() {}
+     public void rev() {}
+     public void stop() {}
+
+ }
